@@ -8,3 +8,5 @@ Name: Hannah A. Tolentino
 Role: Frontend
 
 Name: David Randelle M. Say
+
+Name: Justinn Keith S. Griarte
