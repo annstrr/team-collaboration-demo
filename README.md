@@ -10,3 +10,5 @@ Role: Frontend
 Name: David Randelle M. Say
 
 Name: Justinn Keith S. Griarte
+
+Name: Justine Carmielle M. Manzo
